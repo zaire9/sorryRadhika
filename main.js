@@ -15,7 +15,7 @@ yesBtn.addEventListener("click", () => {
   yesBtn.innerHTML = "Accha thik hai";
 
   yesBtn.addEventListener("click", () => {
-    question.innerHTML = "Hehehe!! I knew It";
+    question.innerHTML = "I Loveyou so much, you are my favourite person ever and i value you deeply and Your feelings matter a lot to me, Thankyou for understanding.";
     gif.src = "images/love.gif";
     yesBtn.style.display = "none";
     noBtn.style.display = "none";
@@ -28,7 +28,7 @@ yesBtn.addEventListener("click", () => {
     noBtn.innerHTML = "Pehle nhi bata sakte the?";
 
     yesBtn.addEventListener("click", () => {
-      question.innerHTML = "Hehehe, I knew it!";
+      question.innerHTML = "I Loveyou so much, you are my favourite person ever and i value you deeply and Your feelings matter a lot to me, Thankyou for understanding.";
       gif.src = "images/love.gif";
       yesBtn.style.display = "none";
       noBtn.style.display = "none";
@@ -41,7 +41,7 @@ yesBtn.addEventListener("click", () => {
       noBtn.innerHTML = "Let me think";
 
       yesBtn.addEventListener("click", () => {
-        question.innerHTML = "Hehehe, I knew it!";
+        question.innerHTML = "I Loveyou so much, you are my favourite person ever and i value you deeply and Your feelings matter a lot to me, Thankyou for understanding.";
         gif.src = "images/love.gif";
         yesBtn.style.display = "none";
         noBtn.style.display = "none";
